@@ -25,4 +25,17 @@ text-align: center;
 {
 font-size=60px;
 }
-
+.void
+{
+	  background-color:white;
+    width: 90%;
+    border: 0px;
+    padding:15px;
+    margin: 15px;
+    margin-top:15px;
+ padding-top:15px;
+ text-align: center;
+ font-family: Raleway;
+ font-size:15px;color:black;
+ float: right;
+}

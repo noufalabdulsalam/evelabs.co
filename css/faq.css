@@ -21,25 +21,20 @@ margin-top:50px;
 padding-top:40px;
 text-align: center; 
 }
-.h2#hd
-{
-font-size=60px;
-}
 a {
-    color: black;
+    color: #FFFFFF;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
     font-weight: bolder;
-     text-align: center;
 }
 
 a:hover,
 a:focus {
-    text-decoration:bold;
-    color: black;
-    font-weight: bold;
-    background-color:white;
+    text-decoration: none;
+    color: #FFFF;
+    font-weight: bolder;
+    background-color: white;
 }
 #container
 {
@@ -47,7 +42,7 @@ color:black;padding:10px;
 }
 .panel-group .panel
 {
- margin-top:40px;
+ margin-top:17px;
  font-family: Raleway;
  font-size:15px;color:black;
  float: right;
